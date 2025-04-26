@@ -1,6 +1,4 @@
 # ds_test_2025
-Data Steward testing repository.
-/br
+Data Steward testing repository!
 The abundance of testing!
-/br
 Maybe i should cook tofu?
