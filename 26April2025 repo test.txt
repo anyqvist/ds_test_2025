@@ -1,0 +1,6 @@
+26/April/2025
+
+This is a test to create a text file and push it to GitHub repo. Maybe i should save my scripts here as py.files or something.
+
+VScode, visualstudio code is a popular text editor. I think i have it already in my os.
+
